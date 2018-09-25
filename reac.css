@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(60, 37, 146);
+    font-family: sans-serif;
+    color: white;
+}
+
+#shape {
+   
+    position: relative;
+}
+
+#times {
+    display: none;
+}
+
